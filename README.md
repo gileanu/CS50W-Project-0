@@ -1,10 +1,10 @@
 # Project-0
 
-Design a front-end for Google Search, Google Image Search, and Google Advanced Search.
+<h1>Design a front-end for Google Search, Google Image Search, and Google Advanced Search.</h1>
 
-index.html - Google Search page
-image-search.html - Google Image Search page
-advanced-search.html - Advanced Google Search page
+index.html - Google Search page<br>
+image-search.html - Google Image Search page<br>
+advanced-search.html - Advanced Google Search page<br>
 
 Hello everyone!
 
